@@ -1,6 +1,6 @@
 # pomo-site
 
-POMO (Pour Over, Move Over) — iOS + watchOS 핸드드립 가이드 앱의 공식 사이트.
+DRIPography — iOS + watchOS 핸드드립 가이드 앱의 공식 사이트.
 GitHub Pages 로 서빙된다: https://yooongza.github.io/pomo-site/
 
 - `index.html` — 랜딩
