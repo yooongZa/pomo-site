@@ -49,6 +49,7 @@ nav a:hover { color: var(--fg); }
 }
 .cta.secondary { background: var(--card); color: var(--fg); border: 1px solid var(--border); }
 .cta + .cta { margin-left: 10px; }
+.cta-note { margin: 12px 0 0; font-size: 14px; color: var(--muted); }
 .features {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));

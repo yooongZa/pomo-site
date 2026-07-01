@@ -9,7 +9,7 @@ GitHub Pages 로 서빙된다: https://yooongza.github.io/pomo-site/
 
 ## 할 일
 
-- [ ] `index.html` 의 TestFlight 버튼(`href="#"`) — 외부 테스트 공개 링크가 나오면 교체
-- [ ] 스크린샷 추가 (출시 전)
+- [x] `index.html` 의 CTA 버튼 — App Store 정식 링크로 교체 (2026-07-01 출시, id 6776568595)
+- [ ] 스크린샷 추가
 
 앱 소스는 별도 private repo (`pomo_coffee`).
