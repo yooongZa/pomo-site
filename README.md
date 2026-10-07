@@ -4,7 +4,8 @@ DRIPography — iOS + watchOS 핸드드립 가이드 앱의 공식 사이트.
 GitHub Pages 로 서빙된다: https://yooongza.github.io/pomo-site/
 
 - `index.html` — 랜딩
-- `privacy/` — 개인정보 처리방침 (App Store Connect 의 "개인정보 처리방침 URL")
+- `privacy/` — Apple 개인정보 처리방침 (App Store Connect 의 "개인정보 처리방침 URL")
+- `privacy/android/` — Android·Wear OS 1.0.14 개인정보 처리방침 (Google Play)
 - `support/` — 지원/FAQ (App Store 의 "지원 URL")
 
 ## 할 일
